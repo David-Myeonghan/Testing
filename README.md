@@ -56,6 +56,8 @@
     - Need to simulate user behaviour in these environment such as clicking, typing, scrolling.
     - Make sure that these scenarios actually work from the point of view of an end user.
 
+    - Takes more time as users use different browsers, different devices.
+
 ### Fetch
 
     - won't work in Node.
